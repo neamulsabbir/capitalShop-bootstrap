@@ -1,0 +1,78 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    
+    font-family: 'Jost', sans-serif;
+}
+.first-nav a{
+    font-size: 13px;
+}
+.first-nav i{
+    color: rgba(0, 0, 0, 0.55) 
+}
+.nav-txt-style a{
+
+    font-weight: 700;
+    color: black;
+
+}
+.drop-txt-style a{
+    font-weight: 400;
+}
+.carousel-header-txt{
+    margin-bottom: 14%;
+    
+    color: black;
+    
+}
+.carousel-header-txt h5{
+    color: black;
+    
+    
+}
+.carousel-header-txt p{
+    color: black;
+   
+}
+.trending{
+    margin-top: 8%;
+    margin-bottom: 8%;
+}
+
+hr{
+  color: rgb(195, 195, 195);
+}
+.trending-details{
+    margin-top: 20px;
+    font-family: 'Jost', sans-serif;
+}
+.trending-details:hover{
+    color: red;
+}
+
+.delivery-container{
+    margin: 10% 0;
+}
+.footer-email{
+    border-radius: 0%;
+    width: 300px;
+}
+.subscribe-btn{
+    border-radius: 0%;
+ 
+}
+.footer-icon{
+    color: rgb(171, 171, 171);
+    
+    
+}
+.footer-icon i{
+    margin-left: 5%;
+    margin-right: auto;
+    
+}
+.shop-details{
+    color: rgb(168, 168, 168);
+}
